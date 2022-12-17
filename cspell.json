@@ -1,0 +1,7 @@
+{
+	"import": [
+		"/opt/homebrew/lib/node_modules/@cspell/dict-ru_ru/cspell-ext.json",
+		"/opt/homebrew/lib/node_modules/cspell-dict-vimlang/cspell-ext.json"
+	],
+	"language": "en,ru,python"
+}
